@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-08T21:01:09 EET" name="Default suite" finished-at="2023-12-08T21:01:22 EET" duration-ms="13182">
+    <groups>
+    </groups>
+    <test started-at="2023-12-08T21:01:09 EET" name="Default test" finished-at="2023-12-08T21:01:22 EET" duration-ms="13182">
+      <class name="LoginPageTestCases">
+        <test-method is-config="true" signature="preTest()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:09 EET" name="preTest" finished-at="2023-12-08T21:01:11 EET" duration-ms="2177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="invalid_username_invalid_password()[pri:1, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:11 EET" name="invalid_username_invalid_password" finished-at="2023-12-08T21:01:11 EET" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_username_invalid_password -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:11 EET" name="afterMethod" finished-at="2023-12-08T21:01:11 EET" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:11 EET" name="preTest" finished-at="2023-12-08T21:01:13 EET" duration-ms="1612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="invalid_username_valid_password()[pri:2, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:13 EET" name="invalid_username_valid_password" finished-at="2023-12-08T21:01:13 EET" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_username_valid_password -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:13 EET" name="afterMethod" finished-at="2023-12-08T21:01:13 EET" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:13 EET" name="preTest" finished-at="2023-12-08T21:01:15 EET" duration-ms="1533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="valid_username_invalid_password()[pri:3, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:15 EET" name="valid_username_invalid_password" finished-at="2023-12-08T21:01:15 EET" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_username_invalid_password -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:15 EET" name="afterMethod" finished-at="2023-12-08T21:01:15 EET" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:15 EET" name="preTest" finished-at="2023-12-08T21:01:17 EET" duration-ms="1601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="empty_username_empty_password()[pri:4, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:17 EET" name="empty_username_empty_password" finished-at="2023-12-08T21:01:17 EET" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empty_username_empty_password -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:17 EET" name="afterMethod" finished-at="2023-12-08T21:01:17 EET" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:17 EET" name="preTest" finished-at="2023-12-08T21:01:18 EET" duration-ms="1501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="valid_username_valid_password()[pri:5, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:18 EET" name="valid_username_valid_password" finished-at="2023-12-08T21:01:22 EET" duration-ms="3384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_username_valid_password -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LoginPageTestCases@5e0826e7]" started-at="2023-12-08T21:01:22 EET" name="afterMethod" finished-at="2023-12-08T21:01:22 EET" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LoginPageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
